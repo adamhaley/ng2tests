@@ -58,7 +58,8 @@
     "tslint": "^3.7.4",
     "typescript": "^1.8.10",
     "typings": "^1.0.4",
-    "webpack": "^1.13.2"
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
   },
   "repository": {}
 }
